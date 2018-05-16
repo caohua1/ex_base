@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ROOT">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../tomcat8/apache-tomcat-8.5.27/webapps/ROOT" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/ex-manage-pojo/src/main/java" />
+      <root url="file://$PROJECT_DIR$/ex-manage-service/src/main/java" />
+      <root url="file://$PROJECT_DIR$/ex-manage-web/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

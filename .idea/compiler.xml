@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ex-manage-pojo" />
+        <module name="ex-manage-service" />
+        <module name="ex-manage-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ex-manage-pojo" target="1.8" />
+      <module name="ex-manage-service" target="1.8" />
+      <module name="ex-manage-web" target="1.8" />
+      <module name="exbase" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
