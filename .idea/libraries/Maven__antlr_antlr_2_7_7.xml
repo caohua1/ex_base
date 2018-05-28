@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: antlr:antlr:2.7.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/ex-manage-pojo/src/main/java" />
+      <root url="file://$PROJECT_DIR$/ex-manage-service/src/main/java" />
+      <root url="file://$PROJECT_DIR$/ex-manage-web/src/main/java" />
+      <root url="jar://$USER_HOME$/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

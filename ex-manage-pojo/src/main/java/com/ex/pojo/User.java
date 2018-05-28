@@ -12,4 +12,6 @@ public class User {
     private Date registTime;
     private Date updateTime;
     private Integer status;
+
+
 }
